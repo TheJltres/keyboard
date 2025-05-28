@@ -35,3 +35,8 @@ scratch.
 
 This journey has left me with lasting memories and skills that I have already
 applied in other projects.
+
+## Assets
+![Motherboard](./redox_motherboard.jpg)
+![Showcase 1](./redox_showcase_1.jpg)
+![Showcase 2](./redox_showcase_2.jpg)
