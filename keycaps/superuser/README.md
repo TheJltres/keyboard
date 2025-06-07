@@ -2,7 +2,7 @@
 
 ## Look in the keyboard
 ![Redox](./redox.jpg)
-![Cosmos](./cosmos.jpg)
+![Keytres](./keytres.jpg)
 
 You can see more on the discord link. A lot of people shared their awesome
 setups
